@@ -1,0 +1,11 @@
+.caja-padding {
+    background-color: lightblue;
+    padding: 60 px;
+    border: 20px solid blue;
+}
+
+.caja-margin {
+    background-color: lightgreen;
+    margin: 10px;
+    border: 2px solid green;
+}
